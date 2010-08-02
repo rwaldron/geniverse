@@ -1,0 +1,196 @@
+{
+    "alleles":"b:H,a:h,b:S,a:S,b:w,a:W,b:l,a:L,b:t,a:T,b:p,a:p,b:F,a:f,b:A,a:a,b:B,a:B",
+    
+    "characteristics":
+    [
+        "2 Horns",
+        "No Wings",
+        "Two Legs",
+        "Fancy Tail",
+        "No Fire",
+        "Red",
+        "Alive",
+        "No Scales",
+        "No Plates"
+    ],
+    "imageURL":"/geniverse/cache/5/hH,SS,Ww,Ll,Tt,pp,fF,aA,BB.png",
+    "name":"Ragnarok",
+    "sex":1,
+    "chromosomes":
+    [
+      {
+        "name": "1",
+        "side": "a",
+        "length": 10000,
+        "alleles":
+        [
+          {
+            "gene": "Horns",
+            "allele": "h",
+            "location": 5643,
+            "length": 135,
+            "sequence": "atcgatatacgatagc"
+          },
+          {
+            "gene": "Scales",
+            "allele": "S",
+            "location": 6732,
+            "length": 99,
+            "sequence": "atcgatatacgatagc"
+          }
+        ]
+      },
+      {
+        "name": "1",
+        "side": "b",
+        "length": 10000,
+        "alleles":
+        [
+          {
+            "gene": "Horns",
+            "allele": "H",
+            "location": 5643,
+            "length": 135,
+            "sequence": "atcgatatacgatagc"
+          },
+          {
+            "gene": "Something",
+            "allele": "S",
+            "location": 6732,
+            "length": 99,
+            "sequence": "atcgatatacgatagc"
+          }
+        ]
+      },
+      {
+        "name": "2",
+        "side": "a",
+        "length": 10000,
+        "alleles":
+        [
+          {
+            "gene": "Wings",
+            "allele": "W",
+            "location": 7732,
+            "length": 87,
+            "sequence": "atcgatatacgatagc"
+          },
+          {
+            "gene": "Legs",
+            "allele": "L",
+            "location": 8732,
+            "length": 102,
+            "sequence": "atcgatatacgatagc"
+          },
+          {
+            "gene": "Tail",
+            "allele": "T",
+            "location": 5643,
+            "length": 135,
+            "sequence": "atcgatatacgatagc"
+          }
+        ]
+      },
+      {
+        "name": "2",
+        "side": "b",
+        "length": 10000,
+        "alleles":
+        [
+          {
+            "gene": "Wings",
+            "allele": "w",
+            "location": 7732,
+            "length": 87,
+            "sequence": "atcgatatacgatagc"
+          },
+          {
+            "gene": "Legs",
+            "allele": "l",
+            "location": 8732,
+            "length": 102,
+            "sequence": "atcgatatacgatagc"
+          },
+          {
+            "gene": "Tail",
+            "allele": "y",
+            "location": 1423,
+            "length": 36,
+            "sequence": "atcgatatacgatagc"
+          }
+        ]
+      },
+      {
+        "name": "X",
+        "side": "a",
+        "length": 700,
+        "alleles":
+        [
+          {
+            "gene": "Plates",
+            "allele": "p",
+            "location": 6732,
+            "length": 99,
+            "sequence": "atcgatatacgatagc"
+          },
+          {
+            "gene": "Fire",
+            "allele": "f",
+            "location": 532,
+            "length": 270,
+            "sequence": "atcgatatacgatagc"
+          },
+          {
+            "gene": "Color1",
+            "allele": "a",
+            "location": 4233,
+            "length": 99,
+            "sequence": "atcgatatacgatagc"
+          },
+          {
+            "gene": "Color2",
+            "allele": "B",
+            "location": 7741,
+            "length": 87,
+            "sequence": "atcgatatacgatagc"
+          }
+        ]
+      },
+      {
+        "name": "X",
+        "side": "b",
+        "length": 700,
+        "alleles":
+        [
+          {
+            "gene": "Plates",
+            "allele": "p",
+            "location": 9576,
+            "length": 84,
+            "sequence": "atcgatatacgatagc"
+          },
+          {
+            "gene": "Fire",
+            "allele": "F",
+            "location": 532,
+            "length": 270,
+            "sequence": "atcgatatacgatagc"
+          },
+          {
+            "gene": "Color1",
+            "allele": "A",
+            "location": 4233,
+            "length": 99,
+            "sequence": "atcgatatacgatagc"
+          },
+          {
+            "gene": "Color2",
+            "allele": "B",
+            "location": 7741,
+            "length": 87,
+            "sequence": "atcgatatacgatagc"
+          }
+        ]
+      }
+    ]
+}
